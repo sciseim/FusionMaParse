@@ -35,4 +35,3 @@ Guidelines
 
 
 4. Time to validate the chimera candidates and/or write a proper script.
-
