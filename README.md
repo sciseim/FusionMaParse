@@ -11,7 +11,7 @@ fusion/chimaeric transcripts above a desired percentage threshold. The code is n
 
 - The script has been tested on linux (Debian) and Mac OSX. 
 - No additional Perl modules are required, however for colouring please install Term::ANSIColor from cpan (http://search.cpan.org/~rra/Term-ANSIColor-4.02/ANSIColor.pm).
-- Please feel free to fork and rewrite. 
+- Written in the spirit of http://www.nature.com/news/2010/101013/full/467753a.html. *Please feel free to fork and rewrite* 
 
 Guidelines
 ----------
