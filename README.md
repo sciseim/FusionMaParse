@@ -19,9 +19,9 @@ Guidelines
 1. Put your FusionMap output in a directory named "data" 
   e.g. tumour1.txt tumour2.txt normal1.txt etc
 
-2. Ensure that FusionMapCutoff.pl is in your PATH —-or simply call the script using its absolute path— and run the script one directory down from “data”
+2. Ensure that FusionMapCutoff.pl is in your PATH —-or simply call the script using its absolute path— and run the script one directory down from the directory named “data”
   
-  the script will output "Please enter your desired chimaera/fusion transcript cutoff" 
+  the script will display "Please enter your desired chimaera/fusion transcript cutoff" 
 
   type in e.g. 50 for 50% and press the Enter key
 
@@ -32,7 +32,7 @@ Guidelines
 
 - the fusion transcript C1orf86->LOC100128003 count is *6* and has reached the accepted threshold and is considered overrepresented in the group
 - the fusion transcript C1orf86->LOC100128003 count is *7* and has reached the accepted threshold and is considered overrepresented in the group
+- 
 
-
-
+4. Time to validate the chimera candidates and/or write a proper script.
 
