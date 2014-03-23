@@ -16,7 +16,7 @@ fusion/chimaeric transcripts above a desired percentage threshold. The code is n
 Guidelines
 ----------
 
-1. Put your FusionMap output in a directory named "data" 
+1. Put your FusionMap output in a directory named "data" (i.e. in ./data)
   
   e.g. tumour1.txt tumour2.txt normal1.txt etc
 
@@ -27,7 +27,7 @@ Guidelines
   type in e.g. 50 for 50% and press the Enter key
 
 
-3. The script will output all fusion/chimearic transcripts above your threshold at the bottom of your screen
+3. The script will output all fusion/chimearic transcripts above your threshold at the bottom of your screen and to the file **output.txt**
 
    e.g. if you have 10 samples, a cutoff of 60%, and the fusion C1orf86->LOC100128003 is found in 7 out of 10 samples.
 
