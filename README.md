@@ -34,5 +34,6 @@ Guidelines
 - the fusion transcript C1orf86->LOC100128003 count is *6* and has reached the accepted threshold and is considered overrepresented in the group
 - the fusion transcript C1orf86->LOC100128003 count is *7* and has reached the accepted threshold and is considered overrepresented in the group
 
+  output.txt will say C1orf86->LOC100128003     70%
 
 Next: validate interesting chimaera candidates by PCR and/or write a proper script.
