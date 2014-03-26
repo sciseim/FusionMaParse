@@ -18,7 +18,7 @@ Guidelines
 
 1. Put your FusionMap output in a directory named "data" (i.e. in ./data)
   
-  e.g. tumour1.txt tumour2.txt normal1.txt etc
+  e.g. tumour1.txt tumour2.txt etc
 
 2. Ensure that FusionMapCutoff.pl is in your PATH —-or simply call the script using its absolute path— and run the script one directory down from the directory named “data”
   
