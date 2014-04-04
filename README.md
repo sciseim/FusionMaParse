@@ -1,9 +1,9 @@
-########################################################################
-# FusionMapCutoff.pl                                                   #
-#                                                                      #
-#                                                                      #
-#                                                                      #
-########################################################################
+#########################################################################################
+# FusionMapCutoff: A script to identify common chimaeras in large FusionMap data sets                                                                             
+#                                                                                      
+#                                                                                       
+#                                                                                       
+#########################################################################################
 
 We provide a Perl script that will parse FusionMap v2014-01-01 reports and output
 fusion/chimaeric transcripts above a desired percentage threshold. The code is not elegant, but the script can be used to quickly interrogate large FusionMap data sets --in particular cancer samples, where the number of candidate fusion transcripts can range from less than ten to thousands. 
